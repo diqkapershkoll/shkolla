@@ -1,0 +1,52 @@
+#body
+{
+    padding:1%;
+    background: #FFFFFF;
+    border: 2px solid rgba(229, 159, 27, 0.3);
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin:5% 0;
+}
+#title
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    padding:2% 5% 0;
+}
+#texti
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    padding:0 5%;
+    height: 150px;
+    overflow-y: hidden;
+}
+
+#posted
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+#button
+{
+    background-color: #F2A71B;
+    border-radius: 999px;
+    width: 50%;
+    font-size: 14px;
+    color: white;
+    height: 25px;
+    padding: 2.5px;
+}

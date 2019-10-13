@@ -1,0 +1,108 @@
+#main
+{
+    margin-top:2%; 
+    padding-left:4%; 
+}
+#imgDiv
+{
+    display: flex;
+    justify-content: center;
+}
+#photo
+{
+    border-radius: 5px;
+    width:100%;
+    max-width: 100%;
+    display: block;
+}
+#info
+{
+    margin-top:4%; 
+}
+#creator
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+}
+#profession,#email
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+}
+#title
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+}
+#date
+{
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 200;
+    font-size: 20px;
+    line-height: 23px;
+}
+#text
+{
+    padding-right:5%;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: justify;
+}
+.big
+{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px;
+    background-color:#E0E0E0;
+    margin: 5px;
+    border-radius:10px;
+    border-bottom-color:#394155;
+    border-bottom-width: 2px;
+}
+.image_container
+{
+    width: 7%;
+    border-right:solid gray 2px;
+    padding-right:1%; 
+}
+.image{
+    border-radius: 999px;
+    width: 100%;
+}
+.content
+{
+    width: 80%;
+    margin-left: 4%;
+}
+.date
+{
+    margin-left: 5%;
+}
+.text
+{
+    word-wrap: break-word;
+}
+.title
+{
+    margin-left: 2%;    
+}
+.foto{
+    width: 100%;
+    padding: 1%;
+    border:2px solid gold;
+    border-radius: 5%;
+}

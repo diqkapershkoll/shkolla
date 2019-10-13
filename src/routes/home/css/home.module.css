@@ -1,0 +1,45 @@
+.image
+{
+    width: 100%;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: 12px;
+}
+.image_container
+{
+    margin-top: 5%;
+}
+.our
+{
+    border: 2px solid rgba(229, 159, 27, 0.3);
+    background-color:rgba(242, 242, 242, 0.2);
+    border-radius: 12px;
+    margin-top: 5%;
+    padding:10px 0px 10px 0px;
+}
+#mainT
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+}
+#texti
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: justify;
+    padding:0 16px;
+}
+.main{
+    margin-top: 2%;
+    margin-bottom:5%;
+    border: 2px solid rgba(229, 159, 27, 0.3);
+    box-sizing: border-box;
+    border-radius: 12px;
+}

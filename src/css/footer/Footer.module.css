@@ -1,0 +1,10 @@
+.sticky_footer {
+    bottom:0;
+    position: relative;
+    float: bottom;
+    width: 100%;
+    padding: 10px;
+    background-color: #262320;
+    color: #FFFFFF;
+    font-size: 20px;
+}

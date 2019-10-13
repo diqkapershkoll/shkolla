@@ -1,0 +1,22 @@
+.markdownContainer {
+    padding: 10px;
+    background: #212121;
+    display: grid;
+    grid-template-columns: .5fr 1fr;
+}
+
+.markdownForm {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.markdownForm textarea {
+    border-radius: 5px;
+    font-family: 20px;
+}
+
+.markdownPreview {
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+}

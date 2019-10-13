@@ -1,0 +1,35 @@
+#blog_card
+{
+    font-family: Roboto;
+    width: 100%;
+    padding: 5px 25px 0px 25px; 
+}
+#blog_title
+{
+    font-size: 18px;
+}
+#paragraph
+{
+    font-size: 12px;
+    font-family: Roboto;
+    font-style: normal;
+    overflow-y: hidden;
+    height: 15px; 
+    margin-bottom:10px;
+}
+#button
+{
+    background-color: #F2A71B;
+    border-radius: 999px;
+    width: 40%;
+    font-size: 14px;
+    color: white;
+    height: 25px;
+    padding: 2.5px;
+}
+
+#button:hover
+{
+    background-color:rgb(229, 159, 27);
+    color: white;
+}

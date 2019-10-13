@@ -1,0 +1,73 @@
+.log_in_container
+{
+    height: 100%;
+    padding: 3% 5% 5% 5%;
+}
+.input
+{
+    width:120%;
+    border-radius: 19px;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    border-radius: 8px;
+    height: 40px;
+    padding-left:5%;
+    font-size: 20px;
+    margin-top:3%;
+}
+.input::placeholder
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+
+    opacity: 0.2;
+}
+
+.button
+{
+    background: #F2A71B;
+    border: 3px solid #F2A71B;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+    margin-top: 10%;
+    transition: 0.2s;
+    width: 120%;
+    height: 45px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #F2F2F2;
+
+    border-radius: 5px;
+}
+.button:hover
+{
+    background-color:rgb(229, 159, 27);
+    color: white;
+}
+.header
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    width:140%;
+}
+#logo{
+    margin-top:5%;
+    margin-left: 3%;
+    max-width:100%;
+    width:25%;
+    display:block;
+}

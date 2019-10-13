@@ -1,0 +1,39 @@
+.nav {
+    background-color: #262320;
+}
+
+.logo {
+    width: 5rem;
+    margin-left: 3%;
+}
+
+
+.fancy {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    border: 3px solid #F2A71B;
+    border-radius: 999px;
+    transition: .2s;
+}
+
+.fancy a {
+    padding: 0;
+}
+
+.fancy:hover {
+    background-color: #F2A71B;
+}
+
+.nav_item {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav_item a {
+    font-size: 20px;
+    color: #f2f2f2;
+}
+
+.navbar_nav {
+    margin-right: 2%;
+}

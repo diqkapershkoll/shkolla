@@ -1,0 +1,17 @@
+const Results = {
+    DEFAULT_ERROR_CASE: 1,
+    LOGIN_UNAUTHORIZED: 2,
+    USER_ALREADY_AUTHENTICATED: 3,
+    LOGIN_AUTHORIZED: 4,
+    REGISTER_FAIL: 5,
+    REGISTER_SUCCESS: 6,
+    NO_DATA_FOUND: 7,
+    DATA_FOUND: 8,
+    SERVER_ERROR: 9,
+    USER_NOT_AUTHENTICATED: 10,
+    SUCCESS: 11
+};
+
+Object.freeze(Results);
+
+export default Results;
